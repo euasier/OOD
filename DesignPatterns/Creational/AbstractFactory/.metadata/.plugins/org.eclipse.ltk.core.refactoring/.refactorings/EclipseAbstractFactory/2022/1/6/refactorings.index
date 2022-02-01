@@ -1,0 +1,22 @@
+1643653213965	Rename package 'proveedor.telefonia'
+1643653550995	Rename type 'ProveedorTelefonia'
+1643653651855	Rename package 'proveedor.telefonia.imp'
+1643653879161	Copy compilation unit
+1643653895825	Delete element
+1643653904879	Copy compilation units
+1643653923916	Rename type 'InternetTelefonica'
+1643653945916	Rename type 'MusicaTelefonica'
+1643653959637	Rename type 'ProveedorTelefonica'
+1643653973131	Rename type 'TelevisionTelefonica'
+1643654159731	Rename package 'abs.factory'
+1643654187128	Copy package
+1643654202396	Rename type 'InternetTelefonica'
+1643654213506	Rename type 'MusicaTelefonica'
+1643654221973	Rename type 'ProveedorTelefonica'
+1643654232930	Rename type 'TelevisionTelefonica'
+1643654712351	Copy compilation unit
+1643654730281	Rename type 'CanalTVVodafone'
+1643654754476	Copy compilation unit
+1643654769366	Rename type 'CanalTVEuskaltel'
+1643654864630	Rename type 'CanalTvProveedor'
+1643655031678	Rename method 'programacion'

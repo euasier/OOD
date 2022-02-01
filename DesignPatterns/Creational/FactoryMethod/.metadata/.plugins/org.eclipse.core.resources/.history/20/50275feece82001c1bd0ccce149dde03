@@ -1,0 +1,6 @@
+package app.doc;
+
+public interface Element {
+
+	public void write();
+}

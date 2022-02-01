@@ -1,0 +1,14 @@
+package app;
+
+import app.Application;
+import app.doc.Document;
+
+public class DrawingApplication extends Application {
+
+	@Override
+	public Document createDocument() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

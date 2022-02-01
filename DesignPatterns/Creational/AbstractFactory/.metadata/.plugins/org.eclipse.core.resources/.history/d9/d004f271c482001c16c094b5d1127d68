@@ -1,0 +1,6 @@
+package abs.factory;
+
+public abstract class Musica {
+
+	public abstract long getLimiteCanciones();
+}

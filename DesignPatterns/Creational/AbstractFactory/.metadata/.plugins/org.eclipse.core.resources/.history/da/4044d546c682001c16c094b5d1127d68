@@ -1,0 +1,10 @@
+package proveedor.telecom;
+
+import proveedor.telecom.tv.CanalTvProveedor;
+
+public interface Television {
+
+	public long getLimiteCanales();
+	
+	public CanalTvProveedor getCanalProveedor();
+}

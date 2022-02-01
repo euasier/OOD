@@ -1,0 +1,13 @@
+package proveedor.telelecom.imp.telefonica;
+
+import abs.factory.Television;
+
+public class TelevisionTelefonica extends Television {
+
+	@Override
+	public long getLimiteCanales() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

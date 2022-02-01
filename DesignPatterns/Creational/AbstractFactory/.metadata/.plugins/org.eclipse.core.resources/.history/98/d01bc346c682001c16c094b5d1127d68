@@ -1,0 +1,13 @@
+package proveedor.telelecom.imp.telefonica.tv;
+
+import proveedor.telecom.tv.CanalTvProveedor;
+
+public class CanalTVTelefonica implements CanalTvProveedor {
+
+	@Override
+	public String programacion() {
+		// TODO Auto-generated method stub
+		return "Programacion Telefonica";
+	}
+
+}

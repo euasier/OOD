@@ -1,0 +1,13 @@
+package proveedor.telecom.imp.vodafone;
+
+import abs.factory.Television;
+
+public class TelevisionVodafone extends Television {
+
+	@Override
+	public long getLimiteCanales() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

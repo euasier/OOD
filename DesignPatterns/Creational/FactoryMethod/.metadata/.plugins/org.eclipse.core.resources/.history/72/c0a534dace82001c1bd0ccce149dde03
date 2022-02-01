@@ -1,0 +1,7 @@
+package app.doc.imp;
+
+import app.doc.Document;
+
+public class DrawingDocument implements Document {
+
+}

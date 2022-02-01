@@ -1,0 +1,13 @@
+package proveedor.telelecom.imp.telefonica;
+
+import abs.factory.Internet;
+
+public class InternetTelefonica extends Internet {
+
+	@Override
+	public long getLimiteDatos() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

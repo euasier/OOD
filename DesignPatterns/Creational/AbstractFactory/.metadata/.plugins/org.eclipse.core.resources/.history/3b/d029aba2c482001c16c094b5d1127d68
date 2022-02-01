@@ -1,0 +1,6 @@
+package abs.factory;
+
+public interface Musica {
+
+	public long getLimiteCanciones();
+}

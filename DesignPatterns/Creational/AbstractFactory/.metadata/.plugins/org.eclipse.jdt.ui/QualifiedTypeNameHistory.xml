@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="proveedor.telecom.ProveedorTelecom"/>
+    <fullyQualifiedTypeName name="proveedor.telelecom.imp.euskaltel.ProveedorEuskaltel"/>
+    <fullyQualifiedTypeName name="proveedor.telecom.Internet"/>
+    <fullyQualifiedTypeName name="proveedor.telecom.Musica"/>
+    <fullyQualifiedTypeName name="proveedor.telecom.Television"/>
+    <fullyQualifiedTypeName name="proveedor.telecom.tv.CanalTvProveedor"/>
+    <fullyQualifiedTypeName name="proveedor.telelecom.imp.euskaltel.tv.CanalTVEuskaltel"/>
+    <fullyQualifiedTypeName name="proveedor.telelecom.imp.telefonica.tv.CanalTVTelefonica"/>
+    <fullyQualifiedTypeName name="proveedor.telecom.imp.vodafone.tv.CanalTVVodafone"/>
+    <fullyQualifiedTypeName name="proveedor.telecom.tv.CanalTVProveedor"/>
+</qualifiedTypeNameHistroy>

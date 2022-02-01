@@ -1,0 +1,13 @@
+package proveedor.telecom.imp.vodafone;
+
+import abs.factory.Musica;
+
+public class MusicaVodafone extends Musica {
+
+	@Override
+	public long getLimiteCanciones() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

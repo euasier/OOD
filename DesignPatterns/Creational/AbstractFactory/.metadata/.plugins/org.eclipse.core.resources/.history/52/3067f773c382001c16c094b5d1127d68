@@ -1,0 +1,28 @@
+package proveedor.telefonia.imp;
+
+import abs.factory.ProveedorTelecom;
+import abs.factory.Internet;
+import abs.factory.Musica;
+import abs.factory.Television;
+
+public class ProveedorTelefonica extends ProveedorTelecom {
+
+	@Override
+	public Television contrataTelevision() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Internet contrataInternet() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Musica contrataMusica() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

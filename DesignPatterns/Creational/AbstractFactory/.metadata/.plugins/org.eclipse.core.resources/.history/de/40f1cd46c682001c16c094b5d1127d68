@@ -1,0 +1,13 @@
+package proveedor.telecom.imp.vodafone.tv;
+
+import proveedor.telecom.tv.CanalTvProveedor;
+
+public class CanalTVVodafone implements CanalTvProveedor {
+
+	@Override
+	public String programacion() {
+		// TODO Auto-generated method stub
+		return "Programacion Vodafone";
+	}
+
+}

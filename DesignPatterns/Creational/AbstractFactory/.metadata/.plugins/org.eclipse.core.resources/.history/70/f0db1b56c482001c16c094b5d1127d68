@@ -1,0 +1,8 @@
+package abs.factory;
+
+public abstract class ProveedorTelecom {
+
+	public abstract Television contrataTelevision();
+	public abstract Internet contrataInternet();
+	public abstract Musica contrataMusica();
+}

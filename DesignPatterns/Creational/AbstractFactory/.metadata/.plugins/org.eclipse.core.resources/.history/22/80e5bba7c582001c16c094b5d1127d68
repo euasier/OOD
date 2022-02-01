@@ -1,0 +1,5 @@
+package proveedor.telecom.tv;
+
+public interface CanalTvProveedor {
+
+}

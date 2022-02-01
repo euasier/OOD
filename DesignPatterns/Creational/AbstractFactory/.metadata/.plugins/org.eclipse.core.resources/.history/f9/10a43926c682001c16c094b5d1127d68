@@ -1,0 +1,6 @@
+package proveedor.telecom;
+
+public interface Television {
+
+	public long getLimiteCanales();
+}

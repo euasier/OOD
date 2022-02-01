@@ -1,0 +1,6 @@
+package abs.factory;
+
+public interface Television {
+
+	public long getLimiteCanales();
+}

@@ -1,0 +1,16 @@
+package app;
+
+import java.util.List;
+
+import app.doc.Document;
+
+public abstract class Application {
+	
+	public abstract Document createDocument();
+	
+	public Document importDocument() {
+		Document doc = createDocument();
+		// read content and write it into document
+		return doc;
+	}
+}

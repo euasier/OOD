@@ -1,0 +1,7 @@
+package proveedor.telelecom.imp.telefonica;
+
+import abs.factory.Musica;
+
+public class MusicaTelefonica extends Musica {
+
+}

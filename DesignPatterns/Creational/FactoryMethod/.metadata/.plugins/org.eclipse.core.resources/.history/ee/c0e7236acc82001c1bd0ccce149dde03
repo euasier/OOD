@@ -1,0 +1,14 @@
+package app;
+
+import app.doc.Document;
+
+public abstract class Application {
+
+	public abstract Document createDocument();
+	
+	public Document importDocument() {
+		Document doc = createDocument();
+		// import document
+		return doc;
+	}
+}

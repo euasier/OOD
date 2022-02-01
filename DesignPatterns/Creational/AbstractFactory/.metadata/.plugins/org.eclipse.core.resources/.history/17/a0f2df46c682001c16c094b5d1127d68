@@ -1,0 +1,16 @@
+package proveedor.telelecom.imp.euskaltel;
+
+import proveedor.telecom.Television;
+import proveedor.telecom.tv.CanalTvProveedor;
+
+public class TelevisionEuskaltel implements Television {
+
+	@Override
+	public long getLimiteCanales() {
+		// TODO Auto-generated method stub
+		return 2;
+	}
+	public CanalTvProveedor getCanalProveedor() {
+		return new CanalTVEuskaltel();
+	}
+}

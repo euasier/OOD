@@ -1,0 +1,13 @@
+package proveedor.telelecom.imp.euskaltel.tv;
+
+import proveedor.telecom.tv.CanalTvProveedor;
+
+public class CanalTVEuskaltel implements CanalTvProveedor {
+
+	@Override
+	public String programacion() {
+		// TODO Auto-generated method stub
+		return "Programacion Vodafone";
+	}
+
+}
